@@ -1,6 +1,6 @@
 {
   "name": "example-app",
-  "version": "0.2.70",
+  "version": "0.2.71-next.0",
   "private": true,
   "backstage": {
     "role": "frontend"
@@ -15,8 +15,8 @@
     "@backstage/core-components": "^0.9.3",
     "@backstage/core-plugin-api": "^1.0.1",
     "@backstage/integration-react": "^1.0.1",
-    "@backstage/plugin-airbrake": "^0.3.4",
-    "@backstage/plugin-api-docs": "^0.8.4",
+    "@backstage/plugin-airbrake": "^0.3.5-next.0",
+    "@backstage/plugin-api-docs": "^0.8.5-next.0",
     "@backstage/plugin-azure-devops": "^0.1.20",
     "@backstage/plugin-apache-airflow": "^0.1.12",
     "@backstage/plugin-badges": "^0.2.28",
@@ -41,7 +41,7 @@
     "@backstage/plugin-kubernetes": "^0.6.4",
     "@backstage/plugin-lighthouse": "^0.3.4",
     "@backstage/plugin-newrelic": "^0.3.22",
-    "@backstage/plugin-newrelic-dashboard": "^0.1.12",
+    "@backstage/plugin-newrelic-dashboard": "^0.1.13-next.0",
     "@backstage/plugin-org": "^0.5.4",
     "@backstage/plugin-pagerduty": "0.3.31",
     "@backstage/plugin-permission-react": "^0.4.0",
@@ -79,7 +79,7 @@
   },
   "devDependencies": {
     "@backstage/plugin-permission-react": "^0.4.0",
-    "@backstage/test-utils": "^1.0.1",
+    "@backstage/test-utils": "^1.0.2-next.0",
     "@rjsf/core": "^3.2.1",
     "@testing-library/cypress": "^8.0.2",
     "@testing-library/jest-dom": "^5.10.1",

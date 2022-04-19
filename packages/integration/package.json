@@ -44,7 +44,7 @@
   "devDependencies": {
     "@backstage/cli": "^0.17.0",
     "@backstage/config-loader": "^1.1.0",
-    "@backstage/test-utils": "^1.0.1",
+    "@backstage/test-utils": "^1.0.2-next.0",
     "@types/jest": "^26.0.7",
     "@types/luxon": "^2.0.4",
     "msw": "^0.35.0"
